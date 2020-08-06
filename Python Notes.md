@@ -1,4 +1,0 @@
-# :snail: Python Notes 
-
-##
-
